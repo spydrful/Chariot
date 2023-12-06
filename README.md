@@ -11,8 +11,6 @@ Project Chariot is a collection of tools designed to enhance API interaction. Th
 ## Getting Started
 ### Prerequisites
 
-.. code-block::
-
     $  pip install -r requirements.txt
     
 ## Usage
