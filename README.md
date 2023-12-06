@@ -15,10 +15,10 @@ Project Chariot is a collection of tools designed to enhance API interaction. Th
   ```bash
   pip install -r requirements.txt
 
-  Usage
 ##Clone the repository:
-git clone https://github.com/your-username/Project-Chariot-Parser.git
-cd Project-Chariot-Parser
+  ```bash
+  git clone https://github.com/your-username/Project-Chariot-Parser.git
+  cd Project-Chariot-Parser
 
 ##Run the script with a text file containing a list of IP addresses:
 python parser.py filename.txt
