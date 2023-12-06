@@ -10,5 +10,29 @@ Project Chariot is a collection of tools designed to enhance API interaction. Th
 
 ## Getting Started
 ### Prerequisites
+
 .. code-block::
-   pip install -r requirements.txt
+
+    $  pip install -r requirements.txt
+    
+##Usage
+Clone the repository:
+.. code-block::
+
+    $   git clone https://github.com/your-username/Project-Chariot-Parser.git
+    $   cd Project-Chariot-Parser
+
+Run the script with a text file containing a list of IP addresses:
+.. code-block::
+
+    $  python parser.py filename.txt
+
+
+##Configuration
+Edit the filename.txt file to include the list of IP addresses you want to process.
+
+##Contributing
+Feel free to contribute by opening issues, suggesting enhancements, or submitting pull requests.
+
+##License
+This project is licensed under the MIT License.
