@@ -16,7 +16,7 @@ Project Chariot is a collection of tools designed to enhance API interaction. Th
 ## Usage
 Clone the repository:
 
-    $   git clone https://github.com/your-username/Project-Chariot-Parser.git
+    $   git clone https://github.com/spydrful/Project-Chariot-Parser.git
     $   cd Project-Chariot-Parser
 
 Run the script with a text file containing a list of IP addresses:
